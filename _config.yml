@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  kr
+lang:                  ko-kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 East-Lighter
@@ -25,13 +25,13 @@ title:                 East-Lighter
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  개발을 공부하는 사람의 블로그입니다
+  This blog covers AI, deep learning, ML, data analytics, and strategic management/marketing based on natural language processing.
 
 # A shorter description for the sidebar.
-tagline:               개발을 공부하는 사람의 블로그입니다
+tagline:               NLP를 기반으로 세상을 탐구합니다
 
 # A list of keywords for your blog
-keywords:              [gachon, programming, ai, nlp]
+keywords:              [Gachon, Korean, NLP, Natural Language Processing, Machine Learning, Deep Learning, Data Analysis, Strategic Management, Strategic Marketing]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,7 +42,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                Donghyeon Kim
-  email:               eastlighting1@gachon.ac.kr
+  email:               <eastlighting1@gachon.ac.kr>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
