@@ -8,11 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    I'm a university student studying Natural Language Processing.
     
-    Open `_data/authors.yml` to edit this text.
+    I'm interested in machine learning, deep learning, data analytics, strategic management, and strategic marketing.
 
   # This photo will be used in the about section
   picture:
@@ -26,9 +24,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
+    #twitter:         <username>
     github:          eastlighting1
-    # email:           <mail@domain.tld>
+    email:           eastlighting1@gachon.ac.kr
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -39,7 +37,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       0domg_gle0
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
