@@ -1,7 +1,7 @@
 [build]
- command = "jekyll build"
- publish = "_site"
-
+  publish = "public"
+  command = "npm run build"
 [build.environment]
-  JEKYLL_ENV = "production"
-  RUBY_VERSION = "2.7.1"
+  NODE_VERSION = "14"
+  NPM_VERSION = "7.6.0"
+
