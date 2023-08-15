@@ -14,13 +14,13 @@ module.exports = {
     name: `김동현`,
     bio: {
       role: `Data Scientist & AI Developer`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['Korean', 'Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Data Analysis', 'Strategic Management', 'Strategic Marketing'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
+      github: `https://github.com/eastlighting1`, // `https://github.com/zoomKoding`,
       linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      email: `eastlighting1@gachon.ac.kr`, // `zoomkoding@gmail.com`,
     },
   },
 
