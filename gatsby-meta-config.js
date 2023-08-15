@@ -13,8 +13,8 @@ module.exports = {
   author: {
     name: `김동현`,
     bio: {
-      role: `Data Scientist & AI Developer`,
-      description: ['Korean', 'Natural Language Processing', 'Machine Learning', 'Deep Learning', 'Data Analysis', 'Strategic Management', 'Strategic Marketing'],
+      role: `Data & AI 연구원`,
+      description: ['한국어를 분석하는', '자연어를 처리하는', '머신러닝을 하는', '딥러닝을 하는', '데이터를 분석하는', 'IT 기업의 전략을 수립하는', '데이터를 기반으로 마케팅하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
