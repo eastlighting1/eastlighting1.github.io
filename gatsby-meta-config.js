@@ -1,6 +1,6 @@
 module.exports = {
   title: `Mathmedix`,
-  description: `수학과 AI로 세계를 밝혀나가는 개발자`,
+  description: `수학과 AI로 세계를 밝혀나가는 개발자!`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://eastlighting1.github.io/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
